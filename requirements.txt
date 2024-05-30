@@ -1,1 +1,14 @@
-hello
+opencv-python
+dlib
+pickle-mixin
+numpy
+pandas
+seaborn
+urllib3
+scikit-learn
+scipy
+matplotlib
+tqdm
+gdown
+keras
+tensorflow
